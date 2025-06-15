@@ -1,4 +1,8 @@
-# <img src="assets/icon/icon.png" height="2.5%" width="2.5%">  Clima
+<p align="center">
+  <img src="assets/icon/icon.png" alt="RedHope Logo" width="120"/>
+</p>
+
+<h1 align="center">Clima</h1>
 
 A sleek and modern weather app built with Flutter, providing accurate and real-time weather updates for any location.
 <br>
