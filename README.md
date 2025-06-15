@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/icon/icon.png" alt="RedHope Logo" width="120"/>
+  <img src="assets/icon/icon.png" alt="Clima Logo" width="120"/>
 </p>
 
 <h1 align="center">Clima</h1>
